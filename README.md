@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CherkasovaIP1305
+- 👋 Hi, I’m Irina
 - 👀 I’m interested in Phyton
 - 🌱 I’m currently learning QA
 - 💞️ I’m looking to collaborate on hh.ru
