@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CherkasovaIP1305
 - 👀 I’m interested in Phyton
 - 🌱 I’m currently learning QA
-- 💞️ I’m looking to collaborate on HH
+- 💞️ I’m looking to collaborate on hh.ru
 - 📫 How to reach me cherkasovaip@bk.ru
